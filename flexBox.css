@@ -25,3 +25,17 @@
         width: 100%;
     }
 }
+
+.blackb {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+.orangeb {
+    background-color: orange;
+    padding: 70px;
+    margin: 20px;
+    /* margin: 0px 20px 0px 20px; */
+}
